@@ -1,0 +1,86 @@
+https://leetcode.com/problems/contains-duplicate/discuss/222337/
+Contains Duplicate
+
+https://leetcode.com/problems/find-the-duplicate-number/discuss/222352/
+Find the Duplicate Number
+
+https://leetcode.com/problems/find-all-duplicates-in-an-array/discuss/222343/
+Find All Duplicates in an Array
+
+https://leetcode.com/problems/remove-duplicates-from-sorted-array/discuss/222361/
+Remove Duplicates from Sorted Array
+
+https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/discuss/241805/
+Remove Duplicates from Sorted Array II - Duplicates can appear at most twice
+
+https://leetcode.com/problems/remove-element/discuss/241782/
+Remove Element
+
+https://leetcode.com/problems/missing-number/discuss/222339/
+Missing Number
+
+https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/discuss/238213/
+Find All Numbers Disappeared in an Array
+
+https://leetcode.com/problems/first-missing-positive/discuss/222381/
+First Missing Positive
+
+https://leetcode.com/problems/largest-number/discuss/225057/
+Largest Number
+
+https://leetcode.com/problems/sort-array-by-parity/discuss/221514/
+Sort Array By Parity - Even Odd Separation
+
+https://leetcode.com/problems/sort-colors/discuss/219962/
+Sort Colors - Dutch national flag problem
+
+https://leetcode.com/problems/merge-sorted-array/discuss/222430/
+Merge Two Sorted Arrays
+
+https://leetcode.com/problems/move-zeroes/discuss/221521/
+Move Zeros
+
+https://leetcode.com/problems/monotonic-array/discuss/221527/
+Monotonic Array - Increasing or Decreasing Array
+
+https://leetcode.com/problems/product-of-array-except-self/discuss/222441/
+Product of Array Except Self
+
+https://leetcode.com/problems/rotate-array/discuss/225810/
+Rotate Array
+
+https://leetcode.com/problems/max-consecutive-ones/discuss/221524/
+Max Consecutive Ones
+
+https://leetcode.com/problems/plus-one/discuss/222427/
+Plus One
+
+https://leetcode.com/problems/add-to-array-form-of-integer/discuss/235976/
+Add to Array-Form of Integer
+
+https://leetcode.com/problems/pascals-triangle/discuss/247258/
+Pascals Triangle
+
+https://leetcode.com/problems/pascals-triangle-ii/discuss/247719/
+Pascals Triangle II - Kth Row Of Pascals Triangle
+
+https://leetcode.com/problems/next-permutation/discuss/248070/
+Next Permutation
+
+https://leetcode.com/problems/container-with-most-water/discuss/248817/
+Container With Most Water
+
+https://leetcode.com/problems/intersection-of-two-arrays/discuss/250627/
+Intersection of Two Arrays
+
+https://leetcode.com/problems/intersection-of-two-arrays-ii/discuss/250677/
+Intersection of Two Arrays II - Including duplicates
+
+https://leetcode.com/problems/merge-intervals/discuss/251304/
+Merge Intervals
+
+https://leetcode.com/problems/insert-interval/discuss/251370/
+Insert Interval
+
+https://leetcode.com/problems/non-overlapping-intervals/discuss/251421/
+Non-overlapping Intervals

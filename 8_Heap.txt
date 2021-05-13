@@ -1,0 +1,20 @@
+https://leetcode.com/problems/merge-k-sorted-lists/discuss/206178/
+Merge k Sorted Lists
+
+https://leetcode.com/problems/find-median-from-data-stream/discuss/213830/
+Find Median from Data Stream
+
+https://leetcode.com/problems/kth-largest-element-in-a-stream/discuss/226442/
+Kth Largest Element in a Stream
+
+https://leetcode.com/problems/kth-largest-element-in-an-array/discuss/226877/
+Kth Largest Element in an Array
+
+https://leetcode.com/problems/sort-characters-by-frequency/discuss/237787/
+Sort Characters By Frequency
+
+https://leetcode.com/problems/top-k-frequent-elements/discuss/238095/
+Top K Frequent Elements
+
+https://leetcode.com/problems/top-k-frequent-words/discuss/238167/
+Top K Frequent Words

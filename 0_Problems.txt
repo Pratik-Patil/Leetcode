@@ -1,0 +1,296 @@
+Array:
+- Plus One [Google]
+- Find the duplicate in array [Amazon]
+- Missing Number [Amazon]
+- Remove duplicates from sorted array [Amazon, Google, MS]
+- Remove Duplicates from Sorted Array II - Duplicate can occur max two times [MS]
+- Sort Colors [FB, MS]
+- Factorial Trailing zeros [MS]
+- Largest Number [MS, Amazon]
+- First Missing Positive [Amazon]
+- 3Sum - Sum Zero - [FB, Google]
+- 3Sum Closest - Return closest sum of three integers - [Amazon, MS, FB]
+- Remove Element [Amazon]
+- Intersection of sorted arrays [Google, FB]
+- Merge Intervals [Amazon, Google]
+- Insert Interval [Google]
+- Next Permutation [Amazon, MS]
+- Pascal Triangle [Google, Amazon]
+- Pascal's Triangle II - Kth Row Of Pascal's Triangle [Google]
+- Container With Most Water [FB, Google, Amazon]
+=========================================
+**- Wave Array [Google, Amazon] (InterviewBit)
+**- Max Distance [Amazon] (InterviewBit)
+**- Minimize the absolute difference [MS] (InterviewBit)
+**- Diffk [FB] (InterviewBit)
+**- Array 3 Pointers [MS, Google] (InterviewBit)
+=========================================
+--------------------------------------------------------------------------------------
+Matrix:
+- Rotate Matrix [Google, Amazon, FB]
+- Set Matrix Zeros [Amazon]
+- Spiral Matrix [MS, Amazon]
+- Spiral Matrix II [MS, Amazon]
+**- Diagonal Traverse [MS]
+--------------------------------------------------------------------------------------
+String: 
+- Reverse String [FB, MS, Amazon]
+- String to Integer [MS, Amazon]
+- Implement Strstr() - indexOf() [FB, MS, Amazon]
+- Length of last word [Amazon]
+- Roman to Integer [FB, MS, Amazon]
+- Integer to Roman [FB, MS, Amazon]
+- Longest common prefix [Google]
+- Longest Palindromic Substring [MS, Amazon]
+- Add Binary [FB]
+- Multiply strings [MS, Google]
+- Compare version numbers [Amazon]
+- Restore IP Addresses [Amazon]
+- Count and Say [FB]
+- ZigZag Conversion[Paypal]
+- Valid Number [Adobe]
+**- Longest Substring with At Most Two Distinct Characters [Google]
+- Text Justification [LinkedIn, Google]
+--------------------------------------------------------------------------------------
+Stack-queue:
+- Min stack [Amazon]
+- Evaluate Expression [Google, FB]
+- Valid Parentheses [Amazon]
+- Simplify directory path [MS, Nutanix]
+**- Largest Rectangle in Histogram [Google, FB]
+**- Sliding Window Maximum [Google, Amazon]
+- Trapping Rain Water [Amazon]
+=========================================
+**- Redundant Braces [Amazon] (InterviewBit)
+**- Nearest Smaller Element [MS, Amazon] (InterviewBit)
+=========================================
+--------------------------------------------------------------------------------------
+LinkedList:
+- Reverse Linked List II - Reverse sub-List [FB, MS, Amazon]
+- Swap Nodes in Pairs [MS, Amazon]
+- Palindrome Linked List [MS, Amazon]
+- Remove Duplicates from Sorted List [MS, VMware]
+- Remove Duplicates from Sorted List II - Keep unique nodes [MS, VMware]
+- Remove Nth Node From End of List [Amazon]
+- Intersection of Two Linked Lists [MS, Amazon]
+- Sort List [Google]
+- Insertion Sort List [MS, Google]
+- Linked List Cycle II - Start Point [MS, Amazon]
+- Add Two Numbers [FB, MS, Amazon]
+- Partition List - List Pivoting [MS]
+- Rotate List [Amazon]
+- Reorder List [MS, Amazon]
+- Merge Two Sorted Lists [MS, Amazon]
+**- Reverse Nodes in k-Group [MS, Amazon]
+--------------------------------------------------------------------------------------
+Binary Tree:
+- Balanced Binary Tree [Amazon]
+- Least Common Ancestor [FB, MS, Amazon, Google]
+- Symmetric Tree [Amazon]
+- Same Tree [Amazon]
+- Invert Binary Tree [Google]
+- Path Sum [MS, Amazon]
+**- Path Sum II - Root to Leaf Paths With Sum [MS Amazon]
+**- Sum Root to Leaf Numbers [MS, Google]
+- PreOrder traversal [MS, Amazon]
+- InOrder traversal [MS, Amazon]
+- PostOrder traversal [MS, Amazon]
+- ZigZag Level Order Traversal [MS, Amazon]
+- Binary Tree From InOrder And PreOrder [MS, Amazon]
+- Binary Tree From InOrder And PostOrder [MS, Amazon]
+- Maximum Depth of Binary Tree [FB, MS]
+- Minimum Depth of Binary Tree [FB, Amazon]
+- Diameter of Binary Tree - Largest Distance between nodes of a Tree [FB, Google]
+**- Flatten Binary Tree to Linked List [MS, Amazon, Adobe]
+**- Vertical Order Traversal of a Binary Tree [Amazon]
+**- Populating Next Right Pointers in Each Node [MS, Amazon]
+=========================================
+**- Shortest Unique Prefix [Google]
+**- Order of People Heights [Google]
+**- InOrder Traversal of Cartesian Tree [Amazon]
+=========================================
+--------------------------------------------------------------------------------------
+BST:
+- Validate BST [FB, Amazon]
+- Convert Sorted Array to BST [Amazon, Google]
+- Convert Sorted List to BST [Google]
+- Two Sum IV - Input is a BST [Amazon]
+- Kth Smallest Element in a BST [Amazon]
+- BST Iterator [FB, Amazon]
+- Search in BST
+- Insert into BST
+- Delete a node in BST
+**- InOrder Successor in BST
+**- Largest BST Subtree
+**- Recover Binary Search Tree [MS]
+**- Unique BSTs [Amazon] (DP)
+- Construct Binary Search Tree from PreOrder Traversal [EPI]
+--------------------------------------------------------------------------------------
+Hashing
+- Two Sum [FB, Amazon, Google]
+- 4Sum [Amazon, Google]
+- Longest consecutive sequence [Amazon, Google]
+- Fraction to Recurring Decimal [MS, Amazon, Google]
+- Group Anagrams [MS, Amazon]
+**- Valid Sudoku [Amazon, Google]
+**- Minimum Window Substring [Google, Directi]
+- Longest Substring Without Repeating Characters [Amazon]
+**- Copy List with Random Pointer [MS, Amazon]
+**- Max Points on a Line [Amazon, Google]
+**- Substring with Concatenation of All Words [FB]
+=========================================
+**- Diffk II [FB] (InterviewBit)
+**- Equal [FB] (InterviewBit)
+**- Anagrams [MS, Amazon] (InterviewBit)
+**- Largest Continuous Sequence Zero Sum [MS] (InterviewBit)
+=========================================
+--------------------------------------------------------------------------------------
+Heap:
+- Merge K sorted Arrays [Google]
+- Merge K sorted Lists [Amazon, Google]
+- Find Median from Data Stream or Array [MS, Amazon, Google]
+=========================================
+**- Distinct Numbers in Window [Amazon] (InterviewBit)
+=========================================
+--------------------------------------------------------------------------------------
+Bits / Math:
+- Power of Two [Amazon]
+- Single Number (2:1) [Amazon]
+- Single Number II (3:1) [Google, Amazon]
+- Pow(x, n)[Google]
+- Reverse Bits [Amazon, Nvidia]
+- Divide Two Integers [Amazon, MS]
+- Excel Sheet Column Number [Amazon, MS]
+- Excel Sheet Column Title [Amazon]
+- Hamming Distance [Google]
+- Total Hamming Distance [Google]
+=========================================
+**- Sorted Permutation Rank [MS] (InterviewBit)
+**- Greatest Common Divisor [Google] (InterviewBit)
+=========================================
+--------------------------------------------------------------------------------------
+Trie:
+- Add and Search Word - Data structure design (DFS) [Non Google]
+--------------------------------------------------------------------------------------
+Binary Search:
+- Square root of Integer [FB, MS, Amazon]
+- Search in Rotated Sorted Array [Amazon, MS, FB, Google]
+- Search in Rotated Sorted Array II - with duplicates allowed
+- Median of Two Sorted Arrays [Amazon, MS, Google, VMware]
+--------------------------------------------------------------------------------------
+DP:
+**- House Robber [Google]
+**- Edit Distance [Amazon, Google, MS]
+**- Unique Binary Search Trees [Amazon]
+**- Minimum Path Sum - Matrix [Amazon, Google]
+**- Binary Tree Maximum Path Sum [Amazon, Directi]
+- Maximum Subarray [FB, MS, Amazon]
+- Maximum Product Subarray [MS, Amazon]
+**- Maximal Rectangle [MS, Google]
+**- Longest increasing sequence [Amazon, MS, FB]
+**- Longest Valid Parentheses [Google]
+**- Palindrome Partitioning II [Amazon, Google]
+**- Interleaving String [Google]
+**- Word Break [Google]
+**- Word Break II [Google]
+**- Best Time to Buy and Sell Stock I II III IV [FB, MS, Google, Amazon]
+**- Coin Change 2 [MS]
+**- Distinct Subsequences [Google]
+**- Wildcard Matching [FB, MS]
+**- Regular Expression Matching [FB, MS, Google]
+- Climbing Stairs [Amazon, Intel]
+- Decode Ways [FB, Amazon]
+- Unique Paths [Google]
+- Unique Paths II - uniquePathsWithObstacles - [FB]
+=========================================
+**- Arrange II [Amazon]
+**- Equal Average Partition [Amazon]
+**- Sub Matrices with sum Zero [Google]
+**- Evaluate Expression To True [Amazon]
+**- Length of Longest Subsequence[MS]
+**- Shortest common superstring [Google]
+**- Repeating Sub-Sequence [Google]
+**- Jump Game Array [Amazon]
+**- Min Jumps Array [Amazon, Google]
+**- Longest Arithmetic Progression [MS]
+**- Rod Cutting [Google]
+=========================================
+--------------------------------------------------------------------------------------
+Greedy:
+- Majority Element - Repeated more than n/2 times [Google, MS]
+- Majority Element II - Repeated more than n/3 times [Google]
+- Maximum Product of Three Numbers [Amazon]
+- Candy [MS, Flipkart, Google]
+- Gas Station [Google, Amazon, Bloomberg]
+=========================================
+**- Assign Mice to Holes [Amazon]
+**- Seats [Walmart]
+=========================================
+--------------------------------------------------------------------------------------
+Backtracking:
+**- Permutations [MS, Google]
+**- Permutations II - All Unique Permutations [FB, MS, Google]
+**- Permutation Sequence [Amazon]
+**- Combinations [Amazon]
+**- Combination Sum [FB, Amazon]
+**- Combination Sum II - Input may contain duplicates- [MS, Amazon]
+**- Subsets [MS, Amazon]
+**- Subsets II - Input may contain duplicates - [MS, Amazon]
+**- Palindrome Partitioning [Amazon, Google]
+**- Sudoku Solver [MS]
+**- Gray Code [MS]
+**- N-Queens [Amazon, Google]
+**- Letter Combinations of a Phone Number [FB]
+--------------------------------------------------------------------------------------
+Graph:
+**- Clone Graph [FB, Amazon, Google]
+**- Word Ladder [MS, Google]
+**- Word Ladder II [MS, Google]
+=========================================
+**- Smallest sequence with given Primes [MS]
+**- Smallest Multiple With 0 and 1 [Amazon]
+**- Commutable Islands [Amazon]
+**- Possibility of finishing all courses given pre-requisites [Amazon]
+**- Valid Path [Amazon]
+**- Black Shapes [Amazon]
+**- Word Search Board [Amazon]
+**- Capture Regions on Board [Google]
+**- Knight On Chess Board [Amazon]
+=========================================
+--------------------------------------------------------------------------------------
+Design:
+- LRU cache [MS, Amazon]
+**- Design Twitter [FlipKart, Twitter]
+- Encode and Decode TinyURL - Design URL Shortener [FB, Amazon, Directi]
+**- Design Search AutoComplete System - Design Search Typeahead [Amazon, FB, Google]
+=========================================
+**- Design Messenger [FB, Amazon, Google]
+=========================================
+--------------------------------------------------------------------------------------
+Premium:
+- Two Sum III - Data structure design
+- Search in a Sorted Array of Unknown Size
+- Maximum Size Subarray Sum Equals k
+- Split Array with Equal Sum
+- Encode and Decode Strings 
+- Longest Substring with At Most Two Distinct Characters
+- Palindrome Permutation
+- Palindrome Permutation II
+- Plus One Linked List
+- Insert into a Cyclic Sorted List 
+- Max Stack
+- TreeNode
+- Find Leaves of Binary Tree
+- Binary Tree Upside Down
+- Construct Binary Tree from String
+- Binary Tree Vertical Order Traversal
+- Inorder Successor in BST
+- Inorder Successor in BST II
+- Largest BST Subtree
+- Convert Binary Search Tree to Sorted Doubly Linked List
+- Verify Preorder Sequence in Binary Search Tree
+- Meeting Rooms
+- Meeting Rooms II
+- Find Permutation
+- The Maze
+--------------------------------------------------------------------------------------

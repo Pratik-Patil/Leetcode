@@ -1,0 +1,87 @@
+----------------------------------------------------------------------------System Design
+https://leetcode.com/problems/lru-cache/discuss/204542/
+LRU Cache [MS, Amazon]
+
+https://leetcode.com/problems/design-hashmap/discuss/227081/
+Design HashMap
+
+https://leetcode.com/problems/implement-trie-prefix-tree/discuss/222298/
+Implement Trie (Prefix Tree)
+
+https://leetcode.com/problems/add-and-search-word-data-structure-design/discuss/253511/
+Add and Search Word - Data structure design
+
+link
+Design Twitter [FlipKart, Twitter]
+
+https://leetcode.com/problems/encode-and-decode-tinyurl/discuss/254145/
+Encode and Decode TinyURL - Design URL Shortener [FB, Amazon, Directi]
+
+link
+Design Search AutoComplete System - Design Search Typeahead [Amazon, FB, Google]
+
+----------------------------------------------------------------------------Storage Scalability
+
+https://www.interviewbit.com/problems/design-cache/
+Design Cache [Amazon, FB, Google, Ola]
+
+https://www.interviewbit.com/problems/sharding-a-database/
+Sharding a Database [Amazon]
+
+https://www.interviewbit.com/problems/highly-available-database/
+Highly Available Database [Amazon, FB]
+
+https://www.interviewbit.com/problems/highly-consistent-database/
+Highly Consistent Database [FB]
+
+----------------------------------------------------------------------------System Design GeeksForGeeks
+
+https://www.careercup.com/page?pid=system-design-interview-questions
+System Design Interview Questions - CareerCup
+
+https://www.geeksforgeeks.org/singleton-design-pattern/
+Singleton Design Pattern
+
+https://www.geeksforgeeks.org/design-patterns-set-2-factory-method/
+Factory Method Design Patterns
+
+https://www.geeksforgeeks.org/mvc-design-pattern/
+MVC Design Pattern
+
+https://www.geeksforgeeks.org/design-parking-lot-using-object-oriented-principles/
+Design a parking lot [Amazon, Apple, Google]
+
+https://www.geeksforgeeks.org/design-an-online-book-reader-system/
+Design an online book reader system [Amazon, MS]
+
+https://www.geeksforgeeks.org/design-data-structures-algorithms-memory-file-system/
+Design data structures and algorithms for in-memory file system [Amazon]
+
+https://www.geeksforgeeks.org/design-data-structuresclasses-objectsfor-generic-deck-cards/
+Design the Data Structures for a generic deck of cards [Amazon]
+
+https://www.geeksforgeeks.org/design-a-logistics-system/
+Design a Logistics System [Adobe]
+
+https://www.geeksforgeeks.org/design-a-hit-counter/
+Design a Hit Counter [MS]
+
+https://www.geeksforgeeks.org/how-to-design-a-tiny-url-or-url-shortener/
+Design a tiny URL or URL shortener [FB, Amazon]
+
+https://www.geeksforgeeks.org/design-data-structures-for-a-very-large-social-network-like-facebook-or-linkedln/
+Design data structures for a very large social network like Facebook or Linkedln [Google]
+
+-----------------------------
+
+https://www.geeksforgeeks.org/design-online-hotel-booking-system-like-oyo-rooms/
+Design an online hotel booking system like OYO Rooms
+
+https://www.geeksforgeeks.org/design-movie-ticket-booking-system-like-bookmyshow/
+Design a movie ticket booking system like Bookmyshow
+
+https://www.geeksforgeeks.org/design-video-sharing-system-like-youtube/
+Design Video Sharing System Like Youtube
+
+https://www.geeksforgeeks.org/design-scalable-system-like-foursquare/
+Design Scalable System like Foursquare

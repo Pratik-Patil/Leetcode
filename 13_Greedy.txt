@@ -1,0 +1,33 @@
+https://leetcode.com/problems/maximum-product-of-three-numbers/discuss/242086/
+Maximum Product of Three Numbers
+
+https://leetcode.com/problems/majority-element/discuss/222335/
+Majority Element - Element repeated more than n/2 times
+
+https://leetcode.com/problems/majority-element-ii/discuss/236528/
+Majority Element II - Elements repeated more than n/3 times
+
+https://leetcode.com/problems/candy/discuss/243839/
+Candy
+
+https://leetcode.com/problems/gas-station/discuss/244053/
+Gas Station
+
+https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/discuss/253429/
+Maximize Sum Of Array After K Negations
+
+----------------------------------------------------------------- K-Sum Problems
+https://leetcode.com/problems/two-sum/discuss/221597/
+Two Sum Problem
+
+https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/discuss/221533/
+Two Sum II - Input array is sorted
+
+https://leetcode.com/problems/3sum/discuss/236563/
+3Sum - Sum Zero
+
+https://leetcode.com/problems/3sum-closest/discuss/236578/
+3Sum Closest - Closest sum of three Integers
+
+https://leetcode.com/problems/4sum/discuss/236899/
+4Sum

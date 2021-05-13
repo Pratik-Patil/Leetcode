@@ -1,0 +1,20 @@
+https://leetcode.com/problems/binary-search/discuss/223620/
+Binary search
+
+https://leetcode.com/problems/sqrtx/discuss/222141/
+sqrt(n) - Computer the Integer square root
+
+https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/discuss/222463/
+Find Minimum in Rotated Sorted Array
+
+https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/discuss/222473/
+Find Minimum in Rotated Sorted Array II - Array may contain duplicates
+
+https://leetcode.com/problems/search-in-rotated-sorted-array/discuss/244670/
+Search in Rotated Sorted Array
+
+https://leetcode.com/problems/search-in-rotated-sorted-array-ii/discuss/244711/
+Search in Rotated Sorted Array II - Array may contain duplicates
+
+https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/245975/
+Median of Two Sorted Arrays

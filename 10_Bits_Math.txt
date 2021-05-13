@@ -1,0 +1,62 @@
+https://leetcode.com/problems/number-of-1-bits/discuss/240132/
+Number of 1 Bits - Hamming Weight
+
+https://leetcode.com/problems/hamming-distance/discuss/240187/
+Hamming Distance
+
+https://leetcode.com/problems/total-hamming-distance/discuss/247217/
+Total Hamming Distance
+
+https://leetcode.com/problems/reverse-bits/discuss/245459/
+Reverse Bits
+
+https://leetcode.com/problems/number-complement/discuss/240247/
+Number Complement
+
+https://leetcode.com/problems/power-of-two/discuss/235895/
+Power of Two
+
+https://leetcode.com/problems/power-of-three/discuss/235907/
+Power of Three
+
+https://leetcode.com/problems/power-of-four/discuss/235908/
+Power of Four
+
+https://leetcode.com/problems/convert-a-number-to-hexadecimal/discuss/235811/
+Convert a Number to Hexadecimal
+
+https://leetcode.com/problems/single-number/discuss/225006/
+Single Number - Every element appears twice except for one
+
+https://leetcode.com/problems/single-number-ii/discuss/236368/
+Single Number II - Every element appears three times except for one
+
+
+----------------------------- Math ----------------------------------------------
+
+https://leetcode.com/problems/fibonacci-number/discuss/215992/
+Fibonacci Number
+
+https://leetcode.com/problems/reverse-integer/discuss/223547/
+Reverse Integer
+
+https://leetcode.com/problems/palindrome-number/discuss/223597/
+Palindrome Number
+
+https://leetcode.com/problems/factorial-trailing-zeroes/discuss/223702/
+Factorial Trailing zeros
+
+https://leetcode.com/problems/add-digits/discuss/239555/
+Add Digits
+
+https://leetcode.com/problems/divide-two-integers/discuss/246094/
+Divide Two Integers
+
+https://leetcode.com/problems/powx-n/discuss/245385/
+Pow(x, n) - Implement power function
+
+https://leetcode.com/problems/excel-sheet-column-number/discuss/245779/
+Excel Sheet Column Number
+
+https://leetcode.com/problems/excel-sheet-column-title/discuss/245803/
+Excel Sheet Column Title
