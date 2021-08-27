@@ -11,4 +11,4 @@ https://leetcode.com/problems/spiral-matrix/discuss/226368/
 Spiral Matrix
 
 https://leetcode.com/problems/spiral-matrix-ii/discuss/251505/
-Spiral Matrix II - Create Spiral Matrix of size n * n
+Spiral Matrix II - Create Spiral Matrix of size N * N
