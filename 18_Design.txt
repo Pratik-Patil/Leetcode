@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------System Design
 https://leetcode.com/problems/lru-cache/discuss/204542/
-LRU Cache [MS, Amazon]
+LRU Cache
 
 https://leetcode.com/problems/design-hashmap/discuss/227081/
 Design HashMap
@@ -11,28 +11,28 @@ Implement Trie (Prefix Tree)
 https://leetcode.com/problems/add-and-search-word-data-structure-design/discuss/253511/
 Add and Search Word - Data structure design
 
-link
-Design Twitter [FlipKart, Twitter]
+To Do
+Design Twitter
 
 https://leetcode.com/problems/encode-and-decode-tinyurl/discuss/254145/
-Encode and Decode TinyURL - Design URL Shortener [FB, Amazon, Directi]
+Encode and Decode TinyURL - Design URL Shortener
 
-link
-Design Search AutoComplete System - Design Search Typeahead [Amazon, FB, Google]
+To Do
+Design Search AutoComplete System - Design Search Typeahead
 
 ----------------------------------------------------------------------------Storage Scalability
 
 https://www.interviewbit.com/problems/design-cache/
-Design Cache [Amazon, FB, Google, Ola]
+Design Cache
 
 https://www.interviewbit.com/problems/sharding-a-database/
-Sharding a Database [Amazon]
+Sharding a Database
 
 https://www.interviewbit.com/problems/highly-available-database/
-Highly Available Database [Amazon, FB]
+Highly Available Database
 
 https://www.interviewbit.com/problems/highly-consistent-database/
-Highly Consistent Database [FB]
+Highly Consistent Database
 
 ----------------------------------------------------------------------------System Design GeeksForGeeks
 
@@ -49,28 +49,28 @@ https://www.geeksforgeeks.org/mvc-design-pattern/
 MVC Design Pattern
 
 https://www.geeksforgeeks.org/design-parking-lot-using-object-oriented-principles/
-Design a parking lot [Amazon, Apple, Google]
+Design a parking lot
 
 https://www.geeksforgeeks.org/design-an-online-book-reader-system/
-Design an online book reader system [Amazon, MS]
+Design an online book reader system
 
 https://www.geeksforgeeks.org/design-data-structures-algorithms-memory-file-system/
-Design data structures and algorithms for in-memory file system [Amazon]
+Design data structures and algorithms for in-memory file system
 
 https://www.geeksforgeeks.org/design-data-structuresclasses-objectsfor-generic-deck-cards/
-Design the Data Structures for a generic deck of cards [Amazon]
+Design the Data Structures for a generic deck of cards
 
 https://www.geeksforgeeks.org/design-a-logistics-system/
-Design a Logistics System [Adobe]
+Design a Logistics System
 
 https://www.geeksforgeeks.org/design-a-hit-counter/
-Design a Hit Counter [MS]
+Design a Hit Counter
 
 https://www.geeksforgeeks.org/how-to-design-a-tiny-url-or-url-shortener/
-Design a tiny URL or URL shortener [FB, Amazon]
+Design a tiny URL or URL shortener
 
 https://www.geeksforgeeks.org/design-data-structures-for-a-very-large-social-network-like-facebook-or-linkedln/
-Design data structures for a very large social network like Facebook or Linkedln [Google]
+Design data structures for a very large social network like Facebook or Linkedln
 
 -----------------------------
 
