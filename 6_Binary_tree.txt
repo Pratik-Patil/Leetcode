@@ -58,5 +58,11 @@ Construct Binary Tree from InOrder and PostOrder Traversal
 https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/discuss/210913/
 Construct Binary Tree from PreOrder and PostOrder Traversal
 
+https://leetcode.com/problems/construct-string-from-binary-tree/discuss/1402426/
+Construct String from Binary Tree
+
 https://leetcode.com/problems/serialize-and-deserialize-binary-tree/discuss/232560/
 Serialize and Deserialize Binary Tree
+
+https://leetcode.com/problems/even-odd-tree/discuss/1425756/
+Even Odd Tree
