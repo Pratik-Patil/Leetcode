@@ -69,8 +69,8 @@ Graph:
 **- Word Ladder II
 --------------------------------------------------------------------------------------
 Design:
-**- Design Twitter [FlipKart, Twitter]
-**- Design Search AutoComplete System - Design Search Typeahead [Amazon, FB, Google]
+**- Design Twitter
+**- Design Search AutoComplete System - Design Search Typeahead
 --------------------------------------------------------------------------------------
 Premium:
 **- Two Sum III - Data structure design
