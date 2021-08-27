@@ -16,6 +16,9 @@ Convert Sorted Array to BST
 https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/discuss/212307/
 Convert Sorted List to BST
 
+https://leetcode.com/problems/balance-a-binary-search-tree/discuss/1418199/
+Balance a Binary Search Tree
+
 https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/discuss/210066/
 Lowest Common Ancestor of a BST
 
