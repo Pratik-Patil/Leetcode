@@ -1,4 +1,4 @@
-----------------------------------------------------------------------------System Design
+----------------------------------------------------------------------------System Design Leetcode
 https://leetcode.com/problems/lru-cache/discuss/204542/
 LRU Cache
 
@@ -20,7 +20,7 @@ Encode and Decode TinyURL - Design URL Shortener
 To Do
 Design Search AutoComplete System - Design Search Typeahead
 
-----------------------------------------------------------------------------Storage Scalability
+----------------------------------------------------------------------------Storage Scalability Interviewbit
 
 https://www.interviewbit.com/problems/design-cache/
 Design Cache
@@ -72,7 +72,7 @@ Design a tiny URL or URL shortener
 https://www.geeksforgeeks.org/design-data-structures-for-a-very-large-social-network-like-facebook-or-linkedln/
 Design data structures for a very large social network like Facebook or Linkedln
 
------------------------------
+----------------
 
 https://www.geeksforgeeks.org/design-online-hotel-booking-system-like-oyo-rooms/
 Design an online hotel booking system like OYO Rooms
