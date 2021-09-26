@@ -25,9 +25,6 @@ Lowest Common Ancestor of a BST
 https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/212578/
 Lowest Common Ancestor of a Binary Tree
 
-https://leetcode.com/problems/two-sum-iv-input-is-a-bst/discuss/225041/
-Two Sum IV - Input is a BST
-
 https://leetcode.com/problems/kth-smallest-element-in-a-bst/discuss/226964/
 Kth Smallest Element in a BST
 
@@ -39,3 +36,6 @@ BST Iterator
 
 https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/discuss/273180/
 Construct Binary Search Tree from PreOrder Traversal
+
+https://leetcode.com/problems/two-sum-iv-input-is-a-bst/discuss/225041/
+Two Sum IV - Input is a BST
