@@ -66,3 +66,8 @@ Serialize and Deserialize Binary Tree
 
 https://leetcode.com/problems/even-odd-tree/discuss/1425756/
 Even Odd Tree
+
+---------------------------------------- Advanced
+
+https://leetcode.com/problems/binary-tree-vertical-order-traversal/discuss/1374885/
+Binary Tree Vertical Order Traversal
