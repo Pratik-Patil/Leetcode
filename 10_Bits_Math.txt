@@ -1,3 +1,5 @@
+----------------------------- Bits ----------------------------------------------
+
 https://leetcode.com/problems/number-of-1-bits/discuss/240132/
 Number of 1 Bits - Hamming Weight
 
@@ -60,3 +62,6 @@ Excel Sheet Column Number
 
 https://leetcode.com/problems/excel-sheet-column-title/discuss/245803/
 Excel Sheet Column Title
+
+https://leetcode.com/problems/happy-number/discuss/1423480/
+Happy Number
