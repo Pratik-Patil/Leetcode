@@ -20,6 +20,8 @@ Encode and Decode TinyURL - Design URL Shortener
 To Do
 Design Search AutoComplete System - Design Search Typeahead
 
+https://leetcode.com/problems/logger-rate-limiter/discuss/1555005
+Logger Rate Limiter
 ----------------------------------------------------------------------------Storage Scalability Interviewbit
 
 https://www.interviewbit.com/problems/design-cache/
