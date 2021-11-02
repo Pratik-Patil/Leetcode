@@ -13,6 +13,9 @@ Evaluate Reverse Polish Notation or Postfix Expression
 https://leetcode.com/problems/min-stack/discuss/219582/
 Min Stack
 
+https://leetcode.com/problems/max-stack/discuss/1417429/
+Max Stack
+
 https://leetcode.com/problems/design-circular-queue/discuss/219560/
 Design Circular Queue
 
@@ -21,3 +24,11 @@ Simplify Path
 
 https://leetcode.com/problems/trapping-rain-water/discuss/249402/
 Trapping Rain Water
+
+---------------------------------------- Advanced
+
+https://leetcode.com/problems/nested-list-weight-sum/discuss/1393448/
+Nested List Weight Sum
+
+https://leetcode.com/problems/nested-list-weight-sum-ii/discuss/1394815/
+Nested List Weight Sum II
