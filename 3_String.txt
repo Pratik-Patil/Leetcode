@@ -22,11 +22,17 @@ Valid Palindrome
 https://leetcode.com/problems/valid-palindrome-ii/discuss/214437/
 Valid Palindrome II - by deleting one character
 
+https://leetcode.com/problems/break-a-palindrome/discuss/1425904/
+Break a Palindrome
+
 https://leetcode.com/problems/palindromic-substrings/discuss/238926/
 Palindromic Substrings
 
 https://leetcode.com/problems/longest-palindromic-substring/discuss/215562/
 Longest Palindromic Substring
+
+https://leetcode.com/problems/palindrome-permutation/discuss/1391695/
+Palindrome Permutation
 
 https://leetcode.com/problems/longest-common-prefix/discuss/239066/
 Longest Common Prefix
@@ -87,3 +93,35 @@ Valid Number
 
 https://leetcode.com/problems/text-justification/discuss/234151/
 Text Justification
+
+---------------------------------------- Advanced
+
+https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/discuss/1412933/
+Minimum Remove to Make Valid Parentheses
+
+https://leetcode.com/problems/count-binary-substrings/discuss/1424916/
+Count Binary Substrings
+
+https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/discuss/1414074/
+Remove All Adjacent Duplicates In String
+
+https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/discuss/1415014/
+Remove All Adjacent Duplicates in String II
+
+https://leetcode.com/problems/reconstruct-original-digits-from-english/discuss/1425084/
+Reconstruct Original Digits from English
+
+https://leetcode.com/problems/group-shifted-strings/discuss/1384611/
+Group Shifted Strings
+
+https://leetcode.com/problems/read-n-characters-given-read4/discuss/1403247/
+Read N Characters Given Read4
+
+https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/discuss/1403510/
+Read N Characters Given Read4 II - Call multiple times
+
+https://leetcode.com/problems/construct-binary-tree-from-string/discuss/1400113/
+Construct Binary Tree from String
+
+https://leetcode.com/problems/valid-word-abbreviation/discuss/1382863/
+Valid Word Abbreviation
