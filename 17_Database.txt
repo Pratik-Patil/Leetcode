@@ -1,2 +1,5 @@
 https://leetcode.com/problems/second-highest-salary/discuss/216170/
 Second Highest Salary
+
+https://leetcode.com/problems/recyclable-and-low-fat-products/discuss/1383092/
+Recyclable and Low Fat Products
