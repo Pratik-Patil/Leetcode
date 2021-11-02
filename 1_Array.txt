@@ -84,3 +84,29 @@ Insert Interval
 
 https://leetcode.com/problems/non-overlapping-intervals/discuss/251421/
 Non-overlapping Intervals
+
+---------------------------------------- Advanced
+
+https://leetcode.com/problems/squares-of-a-sorted-array/discuss/1413346/
+Squares of a Sorted Array
+
+https://leetcode.com/problems/k-closest-points-to-origin/discuss/1413926/
+K Closest Points to Origin
+
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/discuss/1426049/
+Best Time to Buy and Sell Stock/
+
+https://leetcode.com/problems/meeting-rooms/discuss/1407649/
+Meeting Rooms
+
+https://leetcode.com/problems/meeting-rooms-ii/discuss/1411037/
+Meeting Rooms II
+
+https://leetcode.com/problems/leftmost-column-with-at-least-a-one/discuss/1377788/
+Leftmost Column with at Least a One
+
+https://leetcode.com/problems/dot-product-of-two-sparse-vectors/discuss/1382478/
+Dot Product of Two Sparse Vectors
+
+https://leetcode.com/problems/buildings-with-an-ocean-view/discuss/1382741/
+Buildings With an Ocean View
